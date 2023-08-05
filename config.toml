@@ -19,3 +19,7 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 hide_made_with_line = true
+
+[[extra.main_menu]]
+name = "Notes"
+url = "@/notes/_index.md"
